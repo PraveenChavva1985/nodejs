@@ -11,6 +11,7 @@
     "url": "git+https://github.com/johnpapa/node-hello.git"
   },
   "keywords": [],
+  "files": ["src"],
   "author": "",
   "license": "ISC",
   "bugs": {
